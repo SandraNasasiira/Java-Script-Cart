@@ -9,4 +9,5 @@
         bar:"Hello"
     };
 }*/
-//Both functions will not print any outcome because
+//Both functions will not print any outcome because ther
+
