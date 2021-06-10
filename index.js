@@ -9,5 +9,4 @@
         bar:"Hello"
     };
 }*/
-//Both functions will not print any outcome because ther
-
+//Both functions will not print any outcome because you can not return a task using curly braces.
